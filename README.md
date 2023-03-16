@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jonny0106
 - 👀 I’m interested in backend development 
-- 🌱 I’m currently learning Scala
+- 🌱 I’m currently learning.
 
 <!---
 Jonny0106/Jonny0106 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
